@@ -3,7 +3,7 @@
 __author__ = "Oscar Urselli"
 __credits__ = ["Oscar Urselli"]
 
-__license__ = "MIT" # link: https://github.com/oscar0urselli/CSV-Converter/blob/master/LICENSE
+__license__ = "MIT"
 __version__ = "0.2"
 __maintainer__ = "Oscar Urselli"
 __email__ = "urselli.oscar@gamil.com"
